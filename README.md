@@ -1,5 +1,4 @@
-# vue-crash-2021
-
+# Task Manager Web App
 ## Project setup
 ```
 npm install
